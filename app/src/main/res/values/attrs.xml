@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircularProgressBar">
+        <attr name="defaultColor" format="color" />
+        <attr name="progressColor" format="color" />
+        <attr name="remainingColor" format="color" />
+        <attr name="outerStrokeColor" format="color" />
+        <attr name="innerStrokeColor" format="color" />
+        <attr name="outerRadius" format="dimension" />
+        <attr name="innerRadius" format="dimension" />
+        <attr name="outerStrokeWidth" format="dimension" />
+        <attr name="innerStrokeWidth" format="dimension" />
+        <attr name="progressColorWidth" format="dimension" />
+    </declare-styleable>
+</resources>
